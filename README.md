@@ -1,6 +1,8 @@
 # TMRNG-Finder
 Extracts Final Fantasy IX Tetra Master cards from random numbers 
+
 Written in C++
+
 Copyright (C) 2023 Ciro Bogea Fernandes.
 
 TMRNG-Finder makes use of two internal databases from Final Fantasy IX:
